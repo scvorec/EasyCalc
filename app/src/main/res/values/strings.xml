@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ZenCalc 1.4.3</string>
+    <string name="indicatorDefault">Off</string>
+    <string name="indicatorDefaultRegz">Off</string>
+    <string name="button_power">ON/OFF</string>
+    <string name="button_delete">DEL</string>
+    <string name="button_cancel">СLS</string>
+    <string name="button_functional">F</string>
+    <string name="button_SPLabel">RND</string>
+    <string name="button_PercentLabel">π</string>
+    <string name="button_SqrtLabel">√</string>
+    <string name="button_XXLabel">x²</string>
+    <string name="button_Percent">%</string>
+    <string name="button_one">1</string>
+    <string name="button_two">2</string>
+    <string name="button_three">3</string>
+    <string name="button_four">4</string>
+    <string name="button_five">5</string>
+    <string name="button_six">6</string>
+    <string name="button_seven">7</string>
+    <string name="button_eight">8</string>
+    <string name="button_nine">9</string>
+    <string name="button_zero">0</string>
+    <string name="button_dot">.</string>
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+    <string name="button_multiple">⨯</string>
+    <string name="button_division">÷</string>
+    <string name="button_equal">=</string>
+    <string name="button_sign">±</string>
+    <string name="button_xP">X⟶M</string>
+    <string name="button_Px">M⟶X</string>
+    <string name="button_Pplus">M + </string>
+    <string name="button_CancelMemory">CM</string>
+    <string name="button_XY">X⟷Y</string>
+    <string name="button_XYlabel">X⟷M</string>
+    <string name="button_1X">1/x</string>
+    <string name="button_1Xlabel">n!</string>
+    <string name="button_lg">lg</string>
+    <string name="button_lglabel">ln</string>
+    <string name="button_sin">sin 𝛂</string>
+    <string name="button_sinlabel">arcsin 𝛂</string>
+    <string name="button_cos">cos 𝛂</string>
+    <string name="button_coslabel">arccos 𝛂</string>
+    <string name="button_tg">tg 𝛂</string>
+    <string name="button_tglabel">arctg 𝛂</string>
+    <string name="button_historylabel">HST</string>
+    <string name="button_history">STK</string>
+    <string name="button_helplabel">HLP</string>
+
+    <string name="button_clear_text">CLS</string>
+    <string name="button_delete_text">DEL</string>
+    <string name="error_text">ЕГГОГ</string>
+
+
+
+</resources>
